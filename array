@@ -41,6 +41,4 @@ for (int i=0;i<7;i++)
     {
       printf("%d ",b[i]);
     }
-}
-Footer
-© 2023 GitHub,
+    }
